@@ -13,6 +13,7 @@ It's a small website where user can enter places that they have been.
 * HTML
 * CSS
 * Twig
+* MVC
 
 ###Setup Instructions
 
